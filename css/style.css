@@ -1,0 +1,113 @@
+.train_text{
+	padding: 100px 0px 100px 0px;
+}
+
+.foot_color{
+	background-color: #004D97;
+	color: white;
+}
+
+/*footer*/
+.foot_head{
+	font-weight: bold;
+	color: white;
+	border-left: 5px solid white;
+	padding: 0px 10px 0px 10px;
+}
+.foot_btn{
+	border-radius: 0px;
+	border-color: white;
+	background-color: transparent;
+	color: white;
+	font-weight: bold;
+}
+.list li a{
+	text-decoration: none;
+	color: white;
+	letter-spacing: 2px;
+	font-size: 17px;
+}
+.list li{
+	padding-top: 5px;
+}
+.list li a:hover{
+	color: white;
+	padding-left: 5px;
+}
+.font_awe{
+	border: 1px solid white;
+	text-align: center;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	color: white;
+}
+/*footer*/
+/*navbar*/
+/* nav{
+	padding: 20px 0px;
+} */
+.navlist li a{
+	font-family: Century Gothic;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.navlist li a:hover{
+		border-bottom: 3px solid #FBFBFB;
+}
+.logo{
+	/*font-weight: bold;
+	font-family: Century Gothic;
+	font-size: 2em;
+	border: 4px solid #FBFBFB;
+	padding: 10px 15px;
+	transition: 1s;*/
+	width: 200px;
+	height: auto;
+}
+/*.logo:hover{
+	border-color: transparent;
+}*/
+.nav_color{
+	background-color: #004D97;
+	box-shadow: 0 3px 20px 0 gray;
+}
+.navbar-default .navbar-toggle{
+	background-color: white;
+	border: 3px solid #137BA5;
+}
+.icon_btn{
+	margin-top: 30px;
+}
+/*navbar*/
+
+/*about*/
+.head{
+	font-family: Century Gothic;
+	font-weight: bold; 
+}
+.para{
+	font-family: Times New Roman;
+	padding: 40px 50px 0px 30px;
+}
+.box{
+	box-shadow: 0 16px 26px 0 gray;
+}
+/*about*/
+
+.login-img{
+	background-image: url('../images/ckm/login_img.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.train_text1{
+	padding: 150px 0px 150px 0px;
+}
+.train_text1{
+	font-family: Century Gothic;
+	font-weight: bold;
+	letter-spacing: 3px;
+	background-color: rgba(112,152,187,0.3);
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}

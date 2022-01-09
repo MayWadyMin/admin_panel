@@ -1,0 +1,27 @@
+
+th{
+    font-family: Century Gothic;
+}
+label{
+    font-family: Century Gothic;
+}
+
+.add-new{
+    margin-bottom: 15px;
+}
+
+
+/* Search Box*/
+.search-box{
+    float: right!important;
+    margin-bottom: 15px!important;
+    
+}
+
+
+/* CSV export */
+.export-btn{
+    float: right!important;
+    padding-right: 10px;
+}
+

@@ -1,0 +1,7 @@
+E.g ------- class="wow fadeIn" data-wow-offset="50" data-wow-delay="0.9s"
+
+fadeIn
+fadeInUp
+bounceIn
+fadeInLeft
+fadeInRight
